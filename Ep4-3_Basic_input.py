@@ -5,7 +5,7 @@ for i in range(4):
     
     print(i)
 '''
-
+#  ข้อครละวังภาษา python tab กับ space bar 
 friend =  []
 
 for i in range(5):
@@ -13,4 +13,7 @@ for i in range(5):
     friend.append(data)
 
 print(friend)
+
+
+print('Hello Github')
 
